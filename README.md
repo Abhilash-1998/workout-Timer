@@ -1,16 +1,14 @@
-# workouttimer
+# Workout Timer
 
-A new Flutter project.
+A cross-platform Flutter app to help you manage workout sessions with sets, rest intervals, and sound alerts.
 
-## Getting Started
+## Features
+- Workout and rest timer with countdown sounds
+- Set custom sets, workout duration, rest time
+- Confetti animation on workout complete
+- Stylish UI with number pickers
 
-This project is a starting point for a Flutter application.
+## Run it
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run
